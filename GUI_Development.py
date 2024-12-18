@@ -12,13 +12,13 @@ import matplotlib.pyplot as plt
 
 
 # Set the OUTPUT_PATH and ASSETS_PATH directly
-OUTPUT_PATH1 = Path(r"C:\Users\gamers\Documents\Tkinter-Designer-master\figma\build 1\build")
+OUTPUT_PATH1 = Path(r".\figma\build 1\build")
 ASSETS_PATH1 = OUTPUT_PATH1 / Path("assets/frame0")
 
-OUTPUT_PATH2 = Path(r"C:\Users\gamers\Documents\Tkinter-Designer-master\figma\build 2\build")
+OUTPUT_PATH2 = Path(r".\figma\build 2\build")
 ASSETS_PATH2 = OUTPUT_PATH2 / Path("assets/frame0")
 
-OUTPUT_PATH3 = Path(r"C:\Users\gamers\Documents\Tkinter-Designer-master\figma\build 4\build")
+OUTPUT_PATH3 = Path(r".\figma\build 4\build")
 ASSETS_PATH3 = OUTPUT_PATH3 / Path("assets/frame0")
 
 def relative_to_assets1(path: str) -> Path:
