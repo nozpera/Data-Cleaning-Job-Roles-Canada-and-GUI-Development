@@ -54,3 +54,5 @@
 **Key Takeaways:**
 - This project honed my technical and analytical skills while emphasizing the importance of presenting insights effectively to diverse audiences. It combines data engineering, software development, and data visualization to deliver impactful solutions.
 
+**Note**
+- This project is still in the development stage
